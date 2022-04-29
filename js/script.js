@@ -22,5 +22,5 @@ function displayNumber () {
 	}
 
   // display the results
-  document.getElementById('answer').innerHTML = answer
+  document.getElementById('answer').innerHTML = answer 
 }
